@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Dec 20 09:15:58 MYT 2019
+0.baseType=DIRECTORY
+0.base=/Users/shaohong/Documents/Mobile Application/Practical/android-kotlin-fundamentals-starter-apps-master/TrackMySleepQualityCoroutines-Starter/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

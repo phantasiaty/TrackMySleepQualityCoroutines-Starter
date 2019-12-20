@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shaohong/Documents/Mobile Application/Practical/android-kotlin-fundamentals-starter-apps-master/TrackMySleepQualityCoroutines-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_quality.xml",
+        "source": "/Users/shaohong/Documents/Mobile Application/Practical/android-kotlin-fundamentals-starter-apps-master/TrackMySleepQualityCoroutines-Starter/app/src/main/res/layout/fragment_sleep_quality.xml"
+    },
+    {
+        "merged": "/Users/shaohong/Documents/Mobile Application/Practical/android-kotlin-fundamentals-starter-apps-master/TrackMySleepQualityCoroutines-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_tracker.xml",
+        "source": "/Users/shaohong/Documents/Mobile Application/Practical/android-kotlin-fundamentals-starter-apps-master/TrackMySleepQualityCoroutines-Starter/app/src/main/res/layout/fragment_sleep_tracker.xml"
+    }
+]
